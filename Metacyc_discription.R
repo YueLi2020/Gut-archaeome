@@ -1,0 +1,24 @@
+
+metacyc_des <- readRDS("metacyc_des.rds")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
